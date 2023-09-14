@@ -1,0 +1,324 @@
+{
+    "anims": [
+        {
+            "key": "c1_1",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "atlas_name",
+                    "frame": "gato_7"
+                },
+                {
+                    "key": "atlas_name",
+                    "frame": "gato_6"
+                },
+                {
+                    "key": "atlas_name",
+                    "frame": "gato_8"
+                }
+            ]
+        },
+        {
+            "key": "c1_2",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "atlas_name",
+                    "frame": "gato_19"
+                },
+                {
+                    "key": "atlas_name",
+                    "frame": "gato_20"
+                },
+                {
+                    "key": "atlas_name",
+                    "frame": "gato_18"
+                }
+            ]
+        },
+        {
+            "key": "c1_3",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "atlas_name",
+                    "frame": "gato_31"
+                },
+                {
+                    "key": "atlas_name",
+                    "frame": "gato_32"
+                },
+                {
+                    "key": "atlas_name",
+                    "frame": "gato_30"
+                }
+            ]
+        },
+        {
+            "key": "c1_4",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "atlas_name",
+                    "frame": "gato_43"
+                },
+                {
+                    "key": "atlas_name",
+                    "frame": "gato_44"
+                },
+                {
+                    "key": "atlas_name",
+                    "frame": "gato_42"
+                }
+            ]
+        },
+        {
+            "key": "c2_1",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "atlas_name",
+                    "frame": "gato_58"
+                },
+                {
+                    "key": "atlas_name",
+                    "frame": "gato_59"
+                },
+                {
+                    "key": "atlas_name",
+                    "frame": "gato_57"
+                }
+            ]
+        },
+        {
+            "key": "c2_2",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "atlas_name",
+                    "frame": "gato_70"
+                },
+                {
+                    "key": "atlas_name",
+                    "frame": "gato_71"
+                },
+                {
+                    "key": "atlas_name",
+                    "frame": "gato_69"
+                }
+            ]
+        },
+        {
+            "key": "c2_3",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "atlas_name",
+                    "frame": "gato_82"
+                },
+                {
+                    "key": "atlas_name",
+                    "frame": "gato_83"
+                },
+                {
+                    "key": "atlas_name",
+                    "frame": "gato_81"
+                }
+            ]
+        },
+        {
+            "key": "c2_4",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "atlas_name",
+                    "frame": "gato_94"
+                },
+                {
+                    "key": "atlas_name",
+                    "frame": "gato_95"
+                },
+                {
+                    "key": "atlas_name",
+                    "frame": "gato_93"
+                }
+            ]
+        },
+        {
+            "key": "d1_1",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "atlas_name",
+                    "frame": "perro_49"
+                },
+                {
+                    "key": "atlas_name",
+                    "frame": "perro_50"
+                },
+                {
+                    "key": "atlas_name",
+                    "frame": "perro_48"
+                }
+            ]
+        },
+        {
+            "key": "d1_2",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "atlas_name",
+                    "frame": "perro_61"
+                },
+                {
+                    "key": "atlas_name",
+                    "frame": "perro_62"
+                },
+                {
+                    "key": "atlas_name",
+                    "frame": "perro_60"
+                }
+            ]
+        },
+        {
+            "key": "d1_3",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "atlas_name",
+                    "frame": "perro_73"
+                },
+                {
+                    "key": "atlas_name",
+                    "frame": "perro_74"
+                },
+                {
+                    "key": "atlas_name",
+                    "frame": "perro_72"
+                }
+            ]
+        },
+        {
+            "key": "d1_4",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "atlas_name",
+                    "frame": "perro_85"
+                },
+                {
+                    "key": "atlas_name",
+                    "frame": "perro_86"
+                },
+                {
+                    "key": "atlas_name",
+                    "frame": "perro_84"
+                }
+            ]
+        },
+        {
+            "key": "d2_1",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "atlas_name",
+                    "frame": "perro_52"
+                },
+                {
+                    "key": "atlas_name",
+                    "frame": "perro_53"
+                },
+                {
+                    "key": "atlas_name",
+                    "frame": "perro_51"
+                }
+            ]
+        },
+        {
+            "key": "d2_2",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "atlas_name",
+                    "frame": "perro_64"
+                },
+                {
+                    "key": "atlas_name",
+                    "frame": "perro_65"
+                },
+                {
+                    "key": "atlas_name",
+                    "frame": "perro_63"
+                }
+            ]
+        },
+        {
+            "key": "d2_3",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "atlas_name",
+                    "frame": "perro_76"
+                },
+                {
+                    "key": "atlas_name",
+                    "frame": "perro_77"
+                },
+                {
+                    "key": "atlas_name",
+                    "frame": "perro_75"
+                }
+            ]
+        },
+        {
+            "key": "d2_4",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "atlas_name",
+                    "frame": "perro_88"
+                },
+                {
+                    "key": "atlas_name",
+                    "frame": "perro_89"
+                },
+                {
+                    "key": "atlas_name",
+                    "frame": "perro_87"
+                }
+            ]
+        }
+    ]
+}

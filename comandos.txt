@@ -1,0 +1,6 @@
+
+ECENAS
+para agregar una scena y desactivar la actual
+this.scene.add("scenex", new scenex);
+this.scene.start("scenex");
+
